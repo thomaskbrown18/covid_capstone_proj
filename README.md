@@ -1,1 +1,3 @@
-# covid_capstone_proj
+# Covid Capstone Project
+
+Work in progress, check back soon!
